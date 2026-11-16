@@ -1,0 +1,400 @@
+{
+  "question_bank": {
+    "title": "思想道德与法治知识题库",
+    "version": "1.1",
+    "description": "涵盖人生观、理想信念、中国精神、社会主义核心价值观、道德修养、法治思维等核心内容",
+    "total_questions": 30,
+    "questions": [
+      {
+        "id": 1,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "category": "人生观",
+        "question": "人生观的核心是（ ）。",
+        "options": ["A. 人生目的", "B. 人生价值", "C. 人生意义", "D. 人生理想"],
+        "answer": "A",
+        "explanation": "人生目的在人生观中居于核心地位，它决定人生的方向、态度和价值标准。"
+      },
+      {
+        "id": 2,
+        "type": "single_choice",
+        "difficulty": "medium",
+        "category": "人生观",
+        "question": "衡量人生价值的标准是（ ）。",
+        "options": [
+          "A. 个人对社会和他人所作的贡献",
+          "B. 个人从社会获得的满足程度",
+          "C. 个人拥有财富的多少",
+          "D. 个人社会地位的高低"
+        ],
+        "answer": "A",
+        "explanation": "评价人生价值的基本尺度是个人对社会和他人所作的贡献，而非单纯的索取或拥有的财富地位。"
+      },
+      {
+        "id": 3,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "category": "理想信念",
+        "question": "中国特色社会主义共同理想与共产主义远大理想的关系是（ ）。",
+        "options": [
+          "A. 阶段性理想与最终理想的关系",
+          "B. 相互替代的关系",
+          "C. 相互排斥的关系",
+          "D. 没有联系的两个理想"
+        ],
+        "answer": "A",
+        "explanation": "中国特色社会主义共同理想是共产主义远大理想在现阶段的具体体现，二者是阶段性理想与最终理想的关系。"
+      },
+      {
+        "id": 4,
+        "type": "single_choice",
+        "difficulty": "medium",
+        "category": "理想信念",
+        "question": "现阶段，我国各族人民的共同理想是（ ）。",
+        "options": [
+          "A. 实现共产主义",
+          "B. 建立社会主义制度",
+          "C. 建设中国特色社会主义，实现中华民族伟大复兴",
+          "D. 消灭阶级和剥削"
+        ],
+        "answer": "C",
+        "explanation": "建设中国特色社会主义、实现中华民族伟大复兴，是现阶段我国各族人民的共同理想。"
+      },
+      {
+        "id": 5,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "category": "中国精神",
+        "question": "民族精神的核心是（ ）。",
+        "options": ["A. 改革创新", "B. 爱国主义", "C. 勤劳勇敢", "D. 团结统一"],
+        "answer": "B",
+        "explanation": "爱国主义是中华民族精神的核心，贯穿民族精神形成和发展的始终。"
+      },
+      {
+        "id": 6,
+        "type": "single_choice",
+        "difficulty": "medium",
+        "category": "中国精神",
+        "question": "时代精神的核心是（ ）。",
+        "options": ["A. 爱国主义", "B. 改革创新", "C. 艰苦奋斗", "D. 无私奉献"],
+        "answer": "B",
+        "explanation": "改革创新是时代精神的核心，是推动社会发展的强大动力。"
+      },
+      {
+        "id": 7,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "category": "社会主义核心价值观",
+        "question": "社会主义核心价值观在国家层面的价值目标是（ ）。",
+        "options": [
+          "A. 富强、民主、文明、和谐",
+          "B. 自由、平等、公正、法治",
+          "C. 爱国、敬业、诚信、友善",
+          "D. 富强、平等、文明、友善"
+        ],
+        "answer": "A",
+        "explanation": "富强、民主、文明、和谐是国家层面的价值目标；自由、平等、公正、法治是社会层面的价值取向；爱国、敬业、诚信、友善是公民个人层面的价值准则。"
+      },
+      {
+        "id": 8,
+        "type": "single_choice",
+        "difficulty": "medium",
+        "category": "社会主义核心价值观",
+        "question": "社会主义核心价值观在社会层面的价值取向是（ ）。",
+        "options": [
+          "A. 富强、民主、文明、和谐",
+          "B. 自由、平等、公正、法治",
+          "C. 爱国、敬业、诚信、友善",
+          "D. 自由、平等、公平、法治"
+        ],
+        "answer": "B",
+        "explanation": "自由、平等、公正、法治是社会层面的价值取向。"
+      },
+      {
+        "id": 9,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "category": "道德修养",
+        "question": "道德的本质是（ ）。",
+        "options": [
+          "A. 一种社会意识形态",
+          "B. 一种强制性规范",
+          "C. 一种自然规律",
+          "D. 一种个人习惯"
+        ],
+        "answer": "A",
+        "explanation": "道德是一种特殊的社会意识形态，由经济基础决定，是社会经济关系的反映。"
+      },
+      {
+        "id": 10,
+        "type": "single_choice",
+        "difficulty": "medium",
+        "category": "道德修养",
+        "question": "社会主义道德的核心是（ ）。",
+        "options": ["A. 集体主义", "B. 为人民服务", "C. 诚实守信", "D. 爱国主义"],
+        "answer": "B",
+        "explanation": "为人民服务是社会主义道德的核心，集体主义是社会主义道德的原则。"
+      },
+      {
+        "id": 11,
+        "type": "single_choice",
+        "difficulty": "medium",
+        "category": "道德修养",
+        "question": "社会主义道德的原则是（ ）。",
+        "options": ["A. 为人民服务", "B. 集体主义", "C. 诚实守信", "D. 人道主义"],
+        "answer": "B",
+        "explanation": "集体主义是社会主义道德的原则，强调国家利益、社会整体利益和个人利益的辩证统一。"
+      },
+      {
+        "id": 12,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "category": "社会公德",
+        "question": "社会公德的主要内容是（ ）。",
+        "options": [
+          "A. 文明礼貌、助人为乐、爱护公物、保护环境、遵纪守法",
+          "B. 爱岗敬业、诚实守信、办事公道、服务群众、奉献社会",
+          "C. 尊老爱幼、男女平等、夫妻和睦、勤俭持家、邻里团结",
+          "D. 爱国守法、明礼诚信、团结友善、勤俭自强、敬业奉献"
+        ],
+        "answer": "A",
+        "explanation": "B项是职业道德的基本要求；C项是家庭美德的主要内容；D项是公民基本道德规范。"
+      },
+      {
+        "id": 13,
+        "type": "single_choice",
+        "difficulty": "medium",
+        "category": "职业道德",
+        "question": "职业道德的最基本要求是（ ）。",
+        "options": ["A. 诚实守信", "B. 爱岗敬业", "C. 办事公道", "D. 服务群众"],
+        "answer": "B",
+        "explanation": "爱岗敬业是职业道德的最基本要求，是做好本职工作的基础。"
+      },
+      {
+        "id": 14,
+        "type": "single_choice",
+        "difficulty": "medium",
+        "category": "法治思维",
+        "question": "法律最本质的属性是（ ）。",
+        "options": ["A. 规范性", "B. 国家意志性", "C. 阶级性", "D. 强制性"],
+        "answer": "C",
+        "explanation": "法律的本质属性是阶级性，它是统治阶级意志的体现。"
+      },
+      {
+        "id": 15,
+        "type": "single_choice",
+        "difficulty": "medium",
+        "category": "法治思维",
+        "question": "我国宪法的地位是（ ）。",
+        "options": [
+          "A. 国家的根本法，治国安邦的总章程",
+          "B. 普通法律之一",
+          "C. 仅规范公民行为的法律",
+          "D. 仅规范国家机构的法律"
+        ],
+        "answer": "A",
+        "explanation": "宪法是国家的根本法，具有最高的法律效力，是治国安邦的总章程。"
+      },
+      {
+        "id": 16,
+        "type": "single_choice",
+        "difficulty": "hard",
+        "category": "法治思维",
+        "question": "全面依法治国的总目标是（ ）。",
+        "options": [
+          "A. 建设中国特色社会主义法治体系、建设社会主义法治国家",
+          "B. 实现科学立法、严格执法",
+          "C. 完善法律体系",
+          "D. 普及法律知识"
+        ],
+        "answer": "A",
+        "explanation": "全面依法治国的总目标是建设中国特色社会主义法治体系、建设社会主义法治国家。"
+      },
+      {
+        "id": 17,
+        "type": "multiple_choice",
+        "difficulty": "medium",
+        "category": "人生观",
+        "question": "人生观的主要内容包括（ ）。",
+        "options": ["A. 人生目的", "B. 人生价值", "C. 人生意义", "D. 人生环境"],
+        "answer": "A,B,C",
+        "explanation": "人生观主要包括人生目的、人生价值和人生态度（或人生意义）三个方面。"
+      },
+      {
+        "id": 18,
+        "type": "multiple_choice",
+        "difficulty": "hard",
+        "category": "中国精神",
+        "question": "中华民族精神的基本内容包括（ ）。",
+        "options": [
+          "A. 爱国主义",
+          "B. 团结统一",
+          "C. 爱好和平",
+          "D. 勤劳勇敢、自强不息"
+        ],
+        "answer": "A,B,C,D",
+        "explanation": "中华民族精神以爱国主义为核心，包括团结统一、爱好和平、勤劳勇敢、自强不息等内容。"
+      },
+      {
+        "id": 19,
+        "type": "multiple_choice",
+        "difficulty": "hard",
+        "category": "法治思维",
+        "question": "法治思维的基本内容包括（ ）。",
+        "options": [
+          "A. 法律至上",
+          "B. 权力制约",
+          "C. 公平正义",
+          "D. 权利保障"
+        ],
+        "answer": "A,B,C,D",
+        "explanation": "法治思维包括法律至上、权力制约、公平正义、权利保障、正当程序等内容。"
+      },
+      {
+        "id": 20,
+        "type": "multiple_choice",
+        "difficulty": "hard",
+        "category": "道德修养",
+        "question": "下列属于家庭美德主要内容的有（ ）。",
+        "options": [
+          "A. 尊老爱幼",
+          "B. 男女平等",
+          "C. 夫妻和睦",
+          "D. 勤俭持家、邻里团结"
+        ],
+        "answer": "A,B,C,D",
+        "explanation": "家庭美德的主要内容包括尊老爱幼、男女平等、夫妻和睦、勤俭持家、邻里团结。"
+      },
+      {
+        "id": 21,
+        "type": "single_choice",
+        "difficulty": "medium",
+        "category": "道德修养",
+        "question": "道德最主要的功能是（ ）。",
+        "options": [
+          "A. 认识功能",
+          "B. 调节功能",
+          "C. 教育功能",
+          "D. 评价功能"
+        ],
+        "answer": "B",
+        "explanation": "道德的功能包括认识功能、调节功能、教育功能、评价功能等，其中调节功能是道德最主要的功能。"
+      },
+      {
+        "id": 22,
+        "type": "single_choice",
+        "difficulty": "medium",
+        "category": "道德修养",
+        "question": "个人品德的基础是（ ）。",
+        "options": ["A. 道德认识", "B. 道德情感", "C. 道德意志", "D. 道德行为"],
+        "answer": "A",
+        "explanation": "个人品德由道德认识、道德情感、道德意志和道德行为构成，其中道德认识是基础，道德行为是关键。"
+      },
+      {
+        "id": 23,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "category": "职业道德",
+        "question": "职业道德中，被称为“立身之本”的是（ ）。",
+        "options": ["A. 爱岗敬业", "B. 诚实守信", "C. 办事公道", "D. 服务群众"],
+        "answer": "B",
+        "explanation": "诚实守信是职业道德的立身之本，是做人的基本准则。"
+      },
+      {
+        "id": 24,
+        "type": "single_choice",
+        "difficulty": "medium",
+        "category": "法律基础",
+        "question": "法律运行的起始性和关键性环节是（ ）。",
+        "options": ["A. 法律制定", "B. 法律执行", "C. 法律适用", "D. 法律遵守"],
+        "answer": "A",
+        "explanation": "法律制定（立法）是法律运行的起始性和关键性环节。"
+      },
+      {
+        "id": 25,
+        "type": "single_choice",
+        "difficulty": "medium",
+        "category": "宪法",
+        "question": "我国宪法的基本原则不包括（ ）。",
+        "options": [
+          "A. 党的领导原则",
+          "B. 人民主权原则",
+          "C. 人权保障原则",
+          "D. 三权分立原则"
+        ],
+        "answer": "D",
+        "explanation": "我国宪法的基本原则包括党的领导原则、人民主权原则、人权保障原则、法治原则、民主集中制原则等，不包括三权分立原则。"
+      },
+      {
+        "id": 26,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "category": "宪法",
+        "question": "我国公民的基本权利中，首要的权利是（ ）。",
+        "options": ["A. 平等权", "B. 政治权利和自由", "C. 人身自由权", "D. 宗教信仰自由"],
+        "answer": "A",
+        "explanation": "平等权是我国公民享有的首要的基本权利，贯穿于公民基本权利的各个方面。"
+      },
+      {
+        "id": 27,
+        "type": "single_choice",
+        "difficulty": "hard",
+        "category": "法治思维",
+        "question": "“法无授权不可为”体现的是（ ）。",
+        "options": [
+          "A. 对于公权力的法治思维",
+          "B. 对于私权利的法治思维",
+          "C. 道德约束的要求",
+          "D. 公民权利的保障"
+        ],
+        "answer": "A",
+        "explanation": "“法无授权不可为”是对公权力（国家机关及其工作人员）的要求；“法无禁止即自由”是对私权利（公民）的保障。"
+      },
+      {
+        "id": 28,
+        "type": "multiple_choice",
+        "difficulty": "medium",
+        "category": "理想信念",
+        "question": "理想信念的作用包括（ ）。",
+        "options": [
+          "A. 指引人生的奋斗目标",
+          "B. 提供人生的前进动力",
+          "C. 提高人生的精神境界",
+          "D. 决定人生的物质财富"
+        ],
+        "answer": "A,B,C",
+        "explanation": "理想信念对人生具有指引奋斗目标、提供前进动力、提高精神境界的重要作用，但不能直接决定物质财富。"
+      },
+      {
+        "id": 29,
+        "type": "multiple_choice",
+        "difficulty": "hard",
+        "category": "法治思维",
+        "question": "依法行使权利应当遵循的原则包括（ ）。",
+        "options": [
+          "A. 权利行使的正当性",
+          "B. 权利行使的合法性",
+          "C. 权利行使的平等性",
+          "D. 权利行使的无限性"
+        ],
+        "answer": "A,B,C",
+        "explanation": "依法行使权利应遵循正当性、合法性、平等性原则，权利行使不能是无限度的，不得损害国家、社会、集体和他人的合法权益。"
+      },
+      {
+        "id": 30,
+        "type": "multiple_choice",
+        "difficulty": "hard",
+        "category": "道德修养",
+        "question": "提升个人道德修养的途径和方法包括（ ）。",
+        "options": [
+          "A. 学思并重",
+          "B. 省察克治",
+          "C. 慎独自律",
+          "D. 知行合一、积善成德"
+        ],
+        "answer": "A,B,C,D",
+        "explanation": "提升个人道德修养的途径和方法包括学思并重、省察克治、慎独自律、知行合一、积善成德等。"
+      }
+    ]
+  }
+}
